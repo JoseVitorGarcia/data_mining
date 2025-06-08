@@ -25,3 +25,9 @@ Este projeto faz a extração e limpeza de texto de arquivos `.pdf`, unificando 
    ```bash
    git clone <url-do-repo>
    cd <nome-do-projeto>
+2. Instale as dependências:
+   ```bash
+   npm install
+1. Execute o comando:
+   ```bash
+   node script.js
